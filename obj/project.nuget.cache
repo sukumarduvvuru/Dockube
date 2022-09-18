@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJe+XNDKXkq7u0UrujicUpqQ9Tj8EZaBIuI7kBA2VsaBdcyz1oIIMHyMG6D97VHKEQoHhbjepQmL+hvi0DKDLg==",
+  "success": true,
+  "projectFilePath": "/home/dsreddy/vscode/dockube/dockube.csproj",
+  "expectedPackageFiles": [
+    "/home/dsreddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
